@@ -29,7 +29,7 @@ Soy un desarrollador Full-Stack con experiencia en reconocimiento facial y siste
 - **Desarrollador Full-Stack** (2022 - 2024) - **RacyCode**
   - Desarrollo y mantenimiento de APIs RESTful.
   - Optimización de bases de datos y arquitectura de microservicios.
-- **Machine Learning Engineer** (2022 - 2023) - **Neuronock**
+- **Machine Learning Engineer** (2022 - 2023) - **Neurolock**
   - Implementación de sistema de reconocimiento facial utilizando TensorFlow y OpenCV.
   - Diseño y entrenamiento de redes neuronales convolucionales (CNN) para identificación biométrica.
 
